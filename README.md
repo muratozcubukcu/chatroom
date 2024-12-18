@@ -97,5 +97,3 @@ pyinstaller client.spec
 The executable will be created in the `dist` folder.
 
 ## License
-
-[Your chosen license] 
